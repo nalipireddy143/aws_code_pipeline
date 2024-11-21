@@ -1,0 +1,3 @@
+echo "Running build job"
+
+echo "build job successful"
